@@ -1,0 +1,11 @@
+.FlashCard_Content{
+    margin: auto; 
+    padding: 10%;
+    max-width: 100%;
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-shadow: 1px 2px 50px rgba(83, 83, 83, 0.657);
+}
+
